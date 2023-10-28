@@ -1,0 +1,40 @@
+
+
+
+.custom-list {
+    list-style-type: square;
+    color:brown; 
+    font-size: 18px; 
+    font-weight: bold; 
+    float: left;
+    text-align: center;
+}
+
+.custom-list li {
+    margin: 50px 52px 50px 30px ;
+    
+    
+}
+h1{
+    color:red;
+    background:burlywood;
+    text-align: center;
+    padding: 30px 52px 20px 30px ; 
+}
+.metin{
+    margin: auto;
+    width: 700px;
+    height: 400px;;
+    font-size: 20px;
+    padding: auto;
+}
+.sola-kaydir{
+    float: left;
+
+}
+
+.fayda {
+    background-color: burlywood;
+   }
+
+   
